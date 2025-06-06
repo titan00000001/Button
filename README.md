@@ -6,8 +6,8 @@ Ever Wanted to just play with a bunch on sensors with LEDs
 ![](https://github.com/titan00000001/Button/blob/main/Screenshot%20(18).png)
 
 ## PCB
-![](https://github.com/titan00000001/Button/blob/main/Screenshot%20(17).png)
-![](https://github.com/titan00000001/Button/blob/main/solder.png)
+![](https://github.com/titan00000001/Button/blob/main/Screenshot%20(19).png)
+![](https://github.com/titan00000001/Button/blob/main/Screenshot%20(20).png)
 
 ## Features
 - 3 LEDs
