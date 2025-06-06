@@ -26,6 +26,6 @@ Just order the PCB & components, open up the KiCAD file and build it accordingly
 - 1 Button
 - 1 Photoresistor
 
-Made by `@vinay nor` on slack :D
+Made by `@vinay nori` on slack :D
 
 Made as a part of http://solder.hackclub.com/!
