@@ -1,4 +1,4 @@
-# Open555
+# Player
 
 Ever wondered how a 555 timer IC worked? Here you have it! A 555 IC, made entirely with THT transistors.
 
