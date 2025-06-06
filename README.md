@@ -1,6 +1,6 @@
 # Player
 
-Ever wondered how a 555 timer IC worked? Here you have it! A 555 IC, made entirely with THT transistors.
+Ever Wanted to just play with a bunch on sensors with LEDs
 
 ## Schematic
 ![](https://github.com/titan00000001/Button/blob/main/Screenshot%20(18).png)
