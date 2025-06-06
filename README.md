@@ -19,12 +19,12 @@ Ever Wanted to just play with a bunch on sensors with LEDs
 Just order the PCB & components, open up the KiCAD file and build it accordingly.
 
 ## BOM
-1 Battery_Cell
-3 LEDS
-2 Resistors
-1 Potentiometer
-1 Button
-1 Photoresistor
+- 1 Battery_Cell
+- 3 LEDS
+- 2 Resistors
+- 1 Potentiometer
+- 1 Button
+- 1 Photoresistor
 
 Made by `@vinay nor` on slack :D
 
