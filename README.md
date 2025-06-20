@@ -1,6 +1,6 @@
 # Player
 
-Ever Wanted to just play with a bunch on sensors with LEDs
+Ever Wanted to just play with a bunch on sensors with LEDs all in the shape of a cute creature
 
 ## Schematic
 ![](https://github.com/titan00000001/Button/blob/main/Screenshot%20(18).png)
